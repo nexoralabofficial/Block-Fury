@@ -1,0 +1,6 @@
+{
+  "name": "Block Fury: Cube Master",
+  "description": "Block Fury: Cube Master - A vibrant, satisfying block placement puzzle game with combos, modes, and arcade sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
